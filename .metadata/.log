@@ -1,0 +1,10 @@
+!SESSION 2015-10-21 14:56:45.272 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data G:\athena_tm\Repo -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-10-21 14:56:47.378
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
